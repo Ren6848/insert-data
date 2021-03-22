@@ -1,0 +1,12 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\insert data\bin\Debug\insert data.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\insert data\bin\Debug\insert data.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\insert data\bin\Debug\insert data.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\insert data\obj\x86\Debug\insert_data.Form1.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\insert data\obj\x86\Debug\insert_data.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\insert data\obj\x86\Debug\insert data.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\insert data\obj\x86\Debug\insert data.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\insert data\obj\x86\Debug\insert data.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\insert data\obj\x86\Debug\insert data.pdb
+C:\Users\ASUS\documents\visual studio 2010\Projects\insert data\insert data\obj\x86\Debug\insert data.exe
+C:\Users\ASUS\documents\visual studio 2010\Projects\insert data\insert data\obj\x86\Debug\insert data.xml
+C:\Users\ASUS\documents\visual studio 2010\Projects\insert data\insert data\obj\x86\Debug\insert data.pdb
